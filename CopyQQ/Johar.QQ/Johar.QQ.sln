@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Johar.QQ", "Johar.QQ\Johar.QQ.csproj", "{A9E2653E-2AD3-4550-B2AB-FDB58AC83325}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Johar.QQ.Wpf", "Johar.QQ.Wpf\Johar.QQ.Wpf.csproj", "{804F7910-BA0B-45C4-898E-143C052E056F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Johar.QQ.Web", "Johar.QQ.Web\Johar.QQ.Web.csproj", "{8DA77C6D-5B9D-439C-B1D9-5E7D171663E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9E2653E-2AD3-4550-B2AB-FDB58AC83325}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9E2653E-2AD3-4550-B2AB-FDB58AC83325}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9E2653E-2AD3-4550-B2AB-FDB58AC83325}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9E2653E-2AD3-4550-B2AB-FDB58AC83325}.Release|Any CPU.Build.0 = Release|Any CPU
+		{804F7910-BA0B-45C4-898E-143C052E056F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{804F7910-BA0B-45C4-898E-143C052E056F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{804F7910-BA0B-45C4-898E-143C052E056F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{804F7910-BA0B-45C4-898E-143C052E056F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DA77C6D-5B9D-439C-B1D9-5E7D171663E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DA77C6D-5B9D-439C-B1D9-5E7D171663E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DA77C6D-5B9D-439C-B1D9-5E7D171663E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DA77C6D-5B9D-439C-B1D9-5E7D171663E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
